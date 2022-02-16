@@ -1,0 +1,11 @@
+node_modules/
+src/
+vendor/
+cypress/
+bienesraices.sql
+gulpfile.js
+package.json
+package-lock.json
+.env
+.DS_Store
+cypress.json
