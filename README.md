@@ -6,7 +6,7 @@ This website contains houses for sale, it has a dark mode, a contact form via em
 
 You can view the website through the following link. all thanks to _Heroku_.
 
-http://bienesraices-bryan.great-site.net/
+https://bienes-raices-bryan-mvc.herokuapp.com/
 
 ## Built with
 The frontend was developed with CSS, HTML and JavaScript tools, while in the Backend we have an implementation with a local server with MySQL and PHP.
